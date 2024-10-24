@@ -2,9 +2,8 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 3
-  tags:
-  - Ball
+  serializedVersion: 2
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -15,7 +14,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - Score_Border
   - 
   - 
   - 
@@ -42,11 +41,3 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Background
-    uniqueID: 1909178715
-    locked: 0
-  - name: Foreground
-    uniqueID: 3681471439
-    locked: 0
-  m_RenderingLayers:
-  - Default
